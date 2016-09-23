@@ -5,6 +5,10 @@ align-content: center;
 text-align:center;
 height: 50px;
 padding: 0.5%;
+position: fixed; 
+bottom: 0;
+left: 0;
+right: 0;
 }
 
 p { 
