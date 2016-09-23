@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>PHP test page</title>
 </head>
 
 <body>
@@ -15,18 +15,19 @@
   <br>
    
   <article class="article">
-  <img src="img/girls.png" alt="buble" style="width:100%;height:100%;">
+  <img src="img/girls.png" alt="girls" style="width:100%;height:100%;">
   </article>
   <br>
   
   <article class="article">
-  <img src="img/headphones.png" alt="buble" style="width:100%;height:100%;">
+  <img src="img/headphones.png" alt="headphones" style="width:100%;height:100%;">
   </article>
   <br>
    <br>
   <article class="article">
-  <img src="img/baloon.png" alt="buble" style="width:100%;height:100%;">
+  <img src="img/baloon.png" alt="baloon" style="width:100%;height:100%;">
   </article>
   <br>
+  
 <?php require 'footer.php';?>
 
