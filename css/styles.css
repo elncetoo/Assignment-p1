@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700);
 #cssmenu {
-  background: #4cb6ea;
+  background: #DE022A;
   margin: 0;
   width: auto;
   padding: 0;
@@ -365,5 +365,11 @@
 
 a:active {
 	color:white;
+}
+
+.inner a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
 }
 

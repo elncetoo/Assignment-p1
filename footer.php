@@ -15,7 +15,7 @@ font-size: 13px;
 	
 </style>
 <div id="footer">
-<p>Made by Svilena Koleva [cph-sk187]  &copy; 2016</p>
+<p>Made by Svilena Koleva [cph-sk187] CPH Business Project &copy; 2016</p>
 </div>
 </body>
 </html>
